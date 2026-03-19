@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Una Aventura",
+  "base_artist": "Ozuna",
+  "createdAt": "2026-03-19T10:04:12.248834Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Una Aventura",
+      "artist": "Banda Cuisillos",
+      "has_synced": false,
+      "path": "select/01_Una_Aventura_Banda_Cuisillos.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Una Aventura",
+      "artist": "Los Rieleros del Norte",
+      "has_synced": true,
+      "path": "select/02_Una_Aventura_Los_Rieleros_del_Norte.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Homenaje a Mallanep: Donde Está el Amor / Una Aventura Más / Me Rio de Ti",
+      "artist": "Los Villacorta Orquesta",
+      "has_synced": false,
+      "path": "select/03_Homenaje_a_Mallanep__Donde_Está_el_Amor___Una_Aventura_Más___Me_Rio_de_Ti_Los_Villacorta_Orquesta.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Una Aventura",
+      "artist": "Grupo Niche",
+      "has_synced": true,
+      "path": "select/04_Una_Aventura_Grupo_Niche.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Por una Aventura",
+      "artist": "Nelson Gomez",
+      "has_synced": true,
+      "path": "select/05_Por_una_Aventura_Nelson_Gomez.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Una Aventura",
+      "artist": "Grupo Niche",
+      "has_synced": true,
+      "path": "select/06_Una_Aventura_Grupo_Niche.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Es Una Aventura",
+      "artist": "Marcela Gandara",
+      "has_synced": true,
+      "path": "select/07_Es_Una_Aventura_Marcela_Gandara.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Una Aventura",
+      "artist": "Greeicy",
+      "has_synced": true,
+      "path": "select/08_Una_Aventura_Greeicy.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Una Aventura (feat. Wisin & Yandel)",
+      "artist": "Prince Royce feat. Wisin & Yandel",
+      "has_synced": true,
+      "path": "select/09_Una_Aventura_(feat._Wisin_&_Yandel)_Prince_Royce_feat._Wisin_&_Yandel.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Una Aventura (feat. Wisin & Yandel)",
+      "artist": "Prince Royce",
+      "has_synced": true,
+      "path": "select/10_Una_Aventura_(feat._Wisin_&_Yandel)_Prince_Royce.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Una Aventura",
+      "artist": "Grupo Niche",
+      "has_synced": true,
+      "path": "select/11_Una_Aventura_Grupo_Niche.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Una Aventura Mas",
+      "artist": "José Feliciano",
+      "has_synced": true,
+      "path": "select/12_Una_Aventura_Mas_José_Feliciano.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Una Aventura",
+      "artist": "Fuerza Regida",
+      "has_synced": true,
+      "path": "select/13_Una_Aventura_Fuerza_Regida.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Una Aventura",
+      "artist": "Galvan Real",
+      "has_synced": true,
+      "path": "select/14_Una_Aventura_Galvan_Real.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Una Aventura Mas",
+      "artist": "Sergio Vargas",
+      "has_synced": true,
+      "path": "select/15_Una_Aventura_Mas_Sergio_Vargas.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Ven a Bailar Con la Fiesta / Una Aventura / Esperando",
+      "artist": "La Fiesta",
+      "has_synced": true,
+      "path": "select/16_Ven_a_Bailar_Con_la_Fiesta___Una_Aventura___Esperando_La_Fiesta.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Una Aventura",
+      "artist": "Ozuna",
+      "has_synced": false,
+      "path": "select/pl_01_Una_Aventura_Ozuna.txt"
+    }
+  ]
+}
